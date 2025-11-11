@@ -70,7 +70,7 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      labels[0]: {
        "texts": ["원숭이가 좋아하는 노란색 과일이다."],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://png.pngtree.com/png-clipart/20240523/original/pngtree-happy-banana-character-icon-png-image_15164120.png"],
        "videos": ["https://www.youtube.com/shorts/7OmX26OjW8E"]
      },
 }
