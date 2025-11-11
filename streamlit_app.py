@@ -73,6 +73,16 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://png.pngtree.com/png-clipart/20240523/original/pngtree-happy-banana-character-icon-png-image_15164120.png"],
        "videos": ["https://www.youtube.com/shorts/7OmX26OjW8E"]
      },
+     labels[1]: {
+       "texts": ["배는 과즙이 많다."],
+       "images": ["https://mblogthumb-phinf.pstatic.net/MjAyNTAyMDlfMTg4/MDAxNzM5MDM2NjIyMDI4.eAnaC_vQ2sKCR-gzSRO9iWIyP_dRb1SpT32PAVAOvZ0g.Fvum-CUx-OKbVuw5_8i9tSGmNdEwm6HnLmNBuuIE74cg.JPEG/image.JPEG?type=w800"],
+       "videos": ["https://www.youtube.com/watch?v=IYB5FDG6J5A"]
+     },
+     labels[2]: {
+       "texts": ["사과는 빨간색이다."],
+       "images": ["https://i.namu.wiki/i/QHZlaOvDdhvtLDYrA6IRvUZdddgwY9q5d0rMBywEIh7dbcNTCzTmE2CDM05JA9GRuXWqp5LsxE_T8BvGNOJhVA.webp"],
+       "videos": ["https://www.youtube.com/watch?v=gI_74vlot8A"]
+     },
 }
 
 # ======================
